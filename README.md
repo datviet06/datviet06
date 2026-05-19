@@ -89,18 +89,23 @@
 
 # 🐍 Contribution Snake
 
+---
+
+# 🐱 Coding Cat
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img width="400" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 </div>
 
 ---
+```
+
 
 
 
