@@ -62,33 +62,7 @@
 
 ---
 
-# 📂 Academic Projects
 
-## 🏨 University Ranking Analysis & Data Visualization
-- Cleaned and organized university ranking data using Microsoft Excel
-- Performed data analysis using functions, sorting, filtering
-- Identified trends and patterns in global university rankings
-- Designed charts and built a dashboard in Excel
-
----
-
-## 🧬 University Ranking Data Exploration & Processing
-- Utilized datasets from Kaggle for analysis
-- Cleaned and processed data using Python (Pandas, NumPy)
-- Conducted exploratory data analysis (EDA)
-- Built visualizations and extracted insights
-
----
-
-## 🌍 Urban Green Space Change Analysis using Remote Sensing
-**(2025 – Present)**
-
-- Analyzed urban green space changes using remote sensing imagery
-- Processed satellite data using GIS tools
-- Used Google Earth Engine for analysis
-- Conducted spatial analysis to identify urban expansion trends
-
----
 
 # 📊 GitHub Analytics
 
